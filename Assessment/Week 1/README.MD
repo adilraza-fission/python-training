@@ -45,6 +45,7 @@
    D. func
 
 5. **What is the output of 10 // 3?**
+
    A. 3.33
 
    B. 3
@@ -151,7 +152,7 @@
     D. error
 
 
-15. **What does *args allow in function definition?** 
+15. **What does `*args` allow in function definition?** 
 
     A. Named arguments
 
