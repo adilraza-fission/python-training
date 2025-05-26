@@ -3,7 +3,7 @@
 ## Section 1: Multiple Choice Questions
 
 
-1. **What is the output of `list(map(lambda x: x*2, [1,2,3]))`?*
+1. **What is the output of `list(map(lambda x: x*2, [1,2,3]))`?**
 
    A. [2,4,6]
 
